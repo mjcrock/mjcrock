@@ -4,4 +4,3 @@
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="75" height="75"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain-wordmark.svg" title="Git" **alt="Git" width="75" height="75"/>
 </div>
-<img src="https://komarev.com/ghpvc/?username=mjcrock&style=flat-square&color=blue" alt="Profile Views"/>
